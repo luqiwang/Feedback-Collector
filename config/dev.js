@@ -4,5 +4,7 @@ module.exports = {
 	mongoURI : 'mongodb://looooki:lokiwang67@ds135777.mlab.com:35777/feedback-collector',
 	cookieKey: 'fasfgadgfdagfdherwqtggwerfsdasdas',
 	stripePublishableKey: 'pk_test_vo8X7CQdMJ3sDjCZBnYy9Ci5',
-	stripeSecretKey: 'sk_test_oOXEtszqjMczmianVCuXHEYx'
+	stripeSecretKey: 'sk_test_oOXEtszqjMczmianVCuXHEYx',
+	sendGridKey:'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',
+	redirectDomain:'http://localhost:3000'
 };
